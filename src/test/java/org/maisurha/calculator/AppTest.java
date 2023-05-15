@@ -49,9 +49,5 @@ public class AppTest
     	float actual=c.div(12,3);
     	assertEquals(expected, actual, 0.1);
     }
-    
-    @BeforeClass
-    public void init() {
-    	
-    }
+
 }

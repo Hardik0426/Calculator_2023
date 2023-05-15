@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Hello world!
- *
+ *@author hardi
  */
 public class App 
 {
